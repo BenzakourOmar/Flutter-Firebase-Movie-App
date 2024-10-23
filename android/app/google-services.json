@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802751393856",
+    "project_id": "movies-cfc34",
+    "storage_bucket": "movies-cfc34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802751393856:android:7e5c50585be07b68d42fa5",
+        "android_client_info": {
+          "package_name": "com.example.tp_avis_film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4QlgGth4gfekYrWevT7RoUo6TSH2kS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
